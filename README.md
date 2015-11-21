@@ -1,4 +1,3 @@
-# smb215-15
 Le projet des auditeurs SMB215 en 2015
 Tableau du suivi du projet (partagé avec les membres de l'équipe dans google drive)
 
@@ -22,3 +21,4 @@ Tableau du suivi du projet (partagé avec les membres de l'équipe dans google d
   http://cours.cofares.net
 
 
+Suivi de la team SMB215 année 2015

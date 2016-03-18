@@ -1,4 +1,4 @@
-Le projet des auditeurs SMB215 en 2016
+#Suivi et traveaux d'auditeurs SMB215 en 2016
 Tableau du suivi du projet (partagé avec les membres de l'équipe dans google drive)
 
 #Liens principaux
@@ -9,15 +9,16 @@ Tableau du suivi du projet (partagé avec les membres de l'équipe dans google d
 [Wiki des auditeurs](http://wiki.cofares.net/cycle-c-informatique/projets-smb215-2013)
 
 # Liens utiles
-* http://cnamliban.cofares.net
-* http://froo.org
+* [tips and trick](http://dev.cofares.net)
+* [Informatique, Ingénieur et société au Liban](http://www.cofares.net)
+* [A Lebanese Java User Group](http://ljug.cofares.net)
 
 # Mailing des membres de ce projet
 * [Groupe SMB215 : 2015 : mailinglist](mailto://smb215-16@cnamliban.org)
 * [Groupe SMB215 : 2015](https://groups.google.com/a/cnamliban.org/forum/#!forum/smb215-2016)
 
 # voir aussi
-  http://cours.cofares.net
+  [Libre cours ... référence et support de cours](http://cours.cofares.net)
 
 
 Suivi de la team SMB215 année 2016

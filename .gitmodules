@@ -14,8 +14,8 @@
 	path = Modules/antoine-ghosn
 	url = git@github.com:antoine-ghosn/SMB215.git
 [submodule "Gestion-de-stock"]
-	path = Gestion-de-stock
+	path = Modules/Gestion-de-stock
 	url = git@github.com:majedlb/Gestion-de-stock.git
 [submodule "SMB215"]
-	path = SMB215
+	path = Modules/SMB215
 	url = https://github.com/antoine-ghosn/SMB215.git

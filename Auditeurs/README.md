@@ -5,6 +5,7 @@ Tableau du suivi du projet (partagé avec les membres de l'équipe dans google d
 # Trveaux d'auditeurs
 * [Trix : Jeu](https://github.com/mmerhej/Trix_SMB215/)
 * [Système stockage](https://github.com/malakKays/Smb215-SystemeDeStockage)
+* [Barjis](https://github.com/dinosaadeh/Barjis/)
 
 #Liens principaux
 * [Suivi des activités : stories : Utilisation de pivotaltraker]

@@ -1,6 +1,11 @@
 #Suivi et traveaux d'auditeurs SMB215 en 2016
 Tableau du suivi du projet (partagé avec les membres de l'équipe dans google drive)
 
+
+# Trveaux d'auditeurs
+* [Trix : Jeu](https://github.com/mmerhej/Trix_SMB215/)
+* [Système stockage](https://github.com/malakKays/Smb215-SystemeDeStockage)
+
 #Liens principaux
 * [Suivi des activités : stories : Utilisation de pivotaltraker]
 (https://www.pivotaltracker.com/n/projects/1556701)
@@ -22,5 +27,3 @@ Tableau du suivi du projet (partagé avec les membres de l'équipe dans google d
 
 
 Suivi de la team SMB215 année 2016
-# Trveaux d'auditeurs
-* [Trix : Jeu](https://github.com/mmerhej/Trix_SMB215/)

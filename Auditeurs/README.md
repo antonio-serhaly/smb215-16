@@ -6,6 +6,7 @@ Tableau du suivi du projet (partagé avec les membres de l'équipe dans google d
 * [Trix : Jeu](https://github.com/mmerhej/Trix_SMB215/)
 * [Système stockage](https://github.com/malakKays/Smb215-SystemeDeStockage)
 * [Barjis](https://github.com/dinosaadeh/Barjis/)
+* [E-Auction](https://github.com/ISSAE/smb215-16/issues/41)
 
 #Liens principaux
 * [Suivi des activités : stories : Utilisation de pivotaltraker]

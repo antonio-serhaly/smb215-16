@@ -2,8 +2,8 @@
 Tableau du suivi du projet (partagé avec les membres de l'équipe dans google drive)
 
 
-# Trveaux d'auditeurs
-* [Trix : Jeu](https://github.com/mmerhej/Trix_SMB215/)
+# Traveaux d'auditeurs
+* [Trex : Jeu de cartes](https://github.com/antonio-serhaly/SMB215TREX)
 * [Système stockage](https://github.com/malakKays/Smb215-SystemeDeStockage)
 * [Barjis](https://github.com/dinosaadeh/Barjis/)
 * [E-Auction](https://github.com/ISSAE/smb215-16/issues/41)
